@@ -1,5 +1,3 @@
-# TLauncher
-An emulator to play MineCraft
 <!DOCTYPE html>
 <html lang="en">
 <head>
